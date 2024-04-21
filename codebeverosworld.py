@@ -84,3 +84,4 @@ while not einde_bereikt():
     route.append( ik().pos )
 route_zien(route)
 time.sleep(5)
+

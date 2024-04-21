@@ -1282,3 +1282,4 @@ def refresh(wait=True):
         pass
     # Wait
     if wait: clock.tick(gamespeed)
+

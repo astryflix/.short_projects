@@ -45,3 +45,4 @@ void main (void){
     float theta = clamp(dot(v_normal, v_light), 0.0, 1.0);
     gl_FragColor = vec4(theta, theta, theta, 1.0);
 }
+
