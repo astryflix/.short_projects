@@ -22,3 +22,4 @@ for i in range(nr_numbers):
 random.shuffle(password)
 print('ur password is:')
 print("".join(password))
+

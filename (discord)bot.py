@@ -31,4 +31,3 @@ pyautogui.mouseUp()
 # for i in range(5000):
 #     auto.click()
 
-
